@@ -4,4 +4,4 @@ Here is some of my projects)
 
 Skills: C# / Python / SQL / Pandas / NumPy / XGBoost / PySpark / PyTorch / TensorFlow / Git
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently looking for a job!
